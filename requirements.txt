@@ -1,0 +1,6 @@
+pip install pandas==2.0.1
+pip install QLAlchemy==2.0.30
+pip install urllib3==1.26.12
+pip install uuid==1.30
+pip install glob==0.7
+pip install configparser==5.0.2
