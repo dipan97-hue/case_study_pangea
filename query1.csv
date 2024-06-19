@@ -1,0 +1,5 @@
+"iupac_name","pubchem_cid","smiles"
+"(4r,4ar,7s,7ar,12bs)-3-methyl-2,4,4a,7,7a,13-hexahydro-1h-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol","5288826","cn1cc[c@]23[c@h]4c=c[c@@h]([c@@h]3oc3c(ccc(c[c@@h]14)c23)o)o"
+"2-acetyloxybenzoic acid","2244","cc(=o)oc1ccccc1c(=o)o"
+"unknown","12259685","cc(=ccn1cc[c@]2([c@@h]([c@@h]1cc1c2cc(cc1)o)c)c)c"
+"unknown","unknown","cn1[c@h]2cc[c@@h]1c[c@@h](c2)oc(=o)c(co)c1ccccc1"
